@@ -1,2 +1,2 @@
 # Request an addon ported from TFC
-Use the [Issues](/issues) link to request a new port.
+Use the [Issues](https://github.com/tfc-plus-addons/requests/issues/) link to request a new port.
