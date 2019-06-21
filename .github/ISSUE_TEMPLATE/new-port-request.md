@@ -1,7 +1,7 @@
 ---
 name: New Port Request
 about: Request a new addon be ported
-title: ''
+title: Port [MOD NAME]
 labels: ''
 assignees: ''
 
